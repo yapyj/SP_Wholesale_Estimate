@@ -11,3 +11,4 @@ Script to get current price of power
 - [Cheaper Electricity with SP Wholesale](https://zitseng.com/archives/19911)
 - [Time for a close look into why Hyflux tanked. This was no typical business failure](https://www.businesstimes.com.sg/opinion/time-for-a-close-look-into-why-hyflux-tanked-this-was-no-typical-business-failure)
 - [Power generation sector crushed by massive overcapacity](https://www.businesstimes.com.sg/energy-commodities/power-generation-sector-crushed-by-massive-overcapacity)
+- [Singapore Energy Statistics 2019](https://www.siew.sg/newsroom/articles/detail/2019/11/20/singapore-energy-statistics-2019)
