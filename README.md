@@ -1,5 +1,5 @@
-# SP_Wholesale
-Script to get current price of power
+# SP_Wholesale_Estimate
+Script to get current price of power from emcsg add the relevant charges for current electicity cost estimate. 
 
 ## Data Sources
 - [Price Information](https://www.emcsg.com/marketdata/priceinformation)
